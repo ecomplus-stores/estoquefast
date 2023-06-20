@@ -1,7 +1,7 @@
 {
   "domain": "estoquefast.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#222831",
+  "primary_color": "#00644a",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
@@ -10,15 +10,15 @@
   "repository": "ecomplus-stores/estoquefast",
   "logo": "/img/uploads/logo-fast-sem-fundo.png",
   "name": "Estoque Fast",
-  "short_name": "estoquefast",
+  "short_name": "EFast",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "font_family": "_",
+  "font_family": "Rubik",
   "favicon": "/img/uploads/logo-estoque-fast.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#393e46",
+  "secondary_color": "#008d4c",
   "icon": "/img/uploads/logo-estoque-fast.png",
   "store_id": 51417,
   "description": "Oferecemos uma ampla seleção de produtos de alta qualidade, desde smartphones, laptops de última geração até periféricos, acessórios e componentes para personalizar seu setup. Nossa equipe especializada está pronta para ajudá-lo a encontrar a solução perfeita para suas necessidades tecnológicas. Venha nos visitar e descubra o poder da informática em suas mãos!",
