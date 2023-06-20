@@ -1,19 +1,19 @@
 {
-  "meta_title": "",
-  "meta_description": "",
+  "meta_title": "Estoque Fast - Sua loja online de eletrônicos, informática e acessórios",
+  "meta_description": "Encontre os melhores eletrônicos, produtos de informática e acessórios na Estoque Fast. Compre online e receba com rapidez e segurança. Aproveite nossas ofertas e garanta a melhor tecnologia para o seu dia a dia.",
   "sections": [
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": false,
+      "full_width": true,
       "slides": [
         {
-          "img": "/img/uploads/rect89.webp",
-          "link": "/headset",
-          "alt": "Headset banner",
+          "img": "/img/uploads/logo-frente-fast.png",
+          "link": "",
+          "alt": "",
           "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z",
-          "mobile_img": "/img/uploads/headphone.webp"
+          "end": "",
+          "mobile_img": "/img/uploads/logo-frente-fast.png"
         },
         {
           "start": "",
