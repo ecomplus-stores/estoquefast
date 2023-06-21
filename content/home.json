@@ -57,6 +57,13 @@
       "limit": 12,
       "page": 1,
       "collection_id": "649357d55e6069037043db9c:categories:ACESSÓRIOS:/acessorios"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "649354775e6069037043d368:categories:INFORMÁTICA:/informatica"
     }
   ]
 }
