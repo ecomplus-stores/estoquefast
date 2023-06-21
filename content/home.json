@@ -43,6 +43,13 @@
       "headless": false,
       "limit": 12,
       "page": 1
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "649353335e6069037043d094:categories:JBL & ÁUDIO:/jbl--audio"
     }
   ]
 }
