@@ -5,7 +5,8 @@
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros"
+    "text": "Em até 7x no cartão",
+    "title": "COMPRE SEM JUROS"
   },
   "exchange": {
     "show": true,
