@@ -39,7 +39,7 @@
     "amex": true,
     "hipercard": true,
     "boleto": true,
-    "paypal": true
+    "paypal": false
   },
   "credits": ""
 }
