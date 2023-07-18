@@ -1,8 +1,10 @@
 User-agent: *
-Allow: /
-Disallow: /app/
-Disallow: /search$
-Disallow: /search?
-Disallow: /search.html$
-Disallow: /search.html?
-Disallow: /admin/
+Allow:
+User-agent: Googlebot
+Allow:
+User-agent: Googlebot-Image
+Allow:
+User-agent: Mediapartners-Google
+Allow:
+User-agent: Adsbot-Google
+Allow:
