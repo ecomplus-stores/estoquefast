@@ -72,6 +72,19 @@
       "limit": 12,
       "page": 1,
       "collection_id": "649354775e6069037043d368:categories:INFORMÁTICA:/informatica"
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 5000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "2023-07-19T17:37:33.894Z",
+          "end": "",
+          "img": "/img/uploads/1678195975_1678195975_64073d07889cf.jpg",
+          "link": "https://estoquefast.com.br/audisat_k10_urus_full_hd_wifi_h265_acm"
+        }
+      ]
     }
   ]
 }
