@@ -46,57 +46,11 @@
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": "649357d55e6069037043db9c:categories:ACESSÓRIOS:/acessorios",
-      "sort": "offers",
+      "sort": "views",
       "title": "",
       "headless": false,
       "limit": 12,
       "page": 1
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "649353335e6069037043d094:categories:JBL & ÁUDIO:/jbl--audio"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "649357d55e6069037043db9c:categories:ACESSÓRIOS:/acessorios"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "649354775e6069037043d368:categories:INFORMÁTICA:/informatica"
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 5000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "2023-07-19T17:37:33.894Z",
-          "end": "2023-07-21T17:32:06.504Z",
-          "img": "/img/uploads/1678195975_1678195975_64073d07889cf.jpg",
-          "link": "https://estoquefast.com.br/audisat_k10_urus_full_hd_wifi_h265_acm"
-        },
-        {
-          "start": "2023-07-19T17:38:56.413Z",
-          "end": "2023-07-21T17:32:22.162Z",
-          "img": "/img/uploads/1678195975_1678195975_64073d074b103.jpg",
-          "link": "https://estoquefast.com.br/duosat_pulse_4k_ultra_hd_wifi_iptv_android_32gb_2gb_de_ram"
-        },
-        {
-          "start": "2023-07-19T17:39:59.877Z",
-          "end": "2023-07-21T17:33:28.755Z",
-          "img": "/img/uploads/1678195975_1678195975_64073d0767057.jpg",
-          "link": "https://estoquefast.com.br/cinebox_fantasia_pro_hd_wifi_acm"
-        }
-      ]
     }
   ]
 }
