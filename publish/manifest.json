@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.29ea07e7a69cf42c6f3acf1a45c09d7a.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.6e3b6adad90509958b180787fa6eaa19.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.4ff135f88de2c4114a874ef372697cf1.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.28f04a95dc742ffe1435ad27f357cd80.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.9fc49ab3cf6fb4f716b8ccb75ff038ef.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Estoque Fast",
+  "short_name": "Estoque Fast",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Oferecemos uma ampla seleção de produtos de alta qualidade, desde smartphones, de última geração até periféricos, acessórios e componentes para personalizar seu setup. Nossa equipe especializada está pronta para ajudá-lo a encontrar a solução perfeita para suas necessidades tecnológicas.",
+  "background_color": "#ffffff",
+  "theme_color": "#00644a"
+}
